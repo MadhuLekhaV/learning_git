@@ -1,8 +1,0 @@
-﻿print("Hello Madhu")
-
-print("Hello MadhuLekha")
-
-n= 5
-print(n)
-
-
